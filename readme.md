@@ -20,7 +20,7 @@ pygame 2.1.2 (SDL 2.0.16, Python 3.9.12)
 # Tree view of code
 GDBDSM-main/<br>
 |—— model<br>
-│   |—— GDM                       - General Driving Behavior Model<br>
+|   |—— GDM                       - General Driving Behavior Model<br>
 |   |   |—— simulation.py         - main program<br>
 |   |   |—— roadInfo.py           - presupposed information<br>
 |   |   |—— carflow.py            - generate flow randomly <br>
