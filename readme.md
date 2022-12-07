@@ -9,6 +9,7 @@ Referring to the NGSIM dataset, this paper realizes the similar-to-real vehicle 
 # Simulation video
 
 [https://www.bilibili.com/video/BV1Am4y1d7WT/](https://www.bilibili.com/video/BV1Am4y1d7WT/)
+![image](https://user-images.githubusercontent.com/24663258/206148572-9e3c760e-1b28-4a40-b7e2-e6c493996514.png)
 
 
 # Installation Requirements
@@ -17,8 +18,10 @@ pygame 2.1.2 (SDL 2.0.16, Python 3.9.12)
 
 
 # Tree view of code
-LTSim-main/
+GDBDSM-main/
+
 |—— model
+
 │   |—— GDM                       - General Driving Behavior Model
 |   |   |—— simulation.py         - main program
 |   |   |—— roadInfo.py           - presupposed information
