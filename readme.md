@@ -38,7 +38,7 @@ GDBDSM-main/<br>
 |   |   |—— roadInfo.py           - presupposed information<br>
 |   |   |—— velocity_sum          - record veloctiy of simulation<br>
 |—— I80_data_process              - initial states of vehicles in dataset (lane id, time, speed)<br>
-│   |—— init_vehicle_1.csv        - period 1<br>
+|    |—— init_vehicle_1.csv        - period 1<br>
 |   |—— init_vehicle_2.csv        - period 2<br>
 |   |—— init_vehicle_3.csv        - period 3<br>
 |—— analyze                       - plot figures in our paper<br>
