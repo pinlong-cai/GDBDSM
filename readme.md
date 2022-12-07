@@ -25,7 +25,7 @@ GDBDSM-main/<br>
 |&emsp;&emsp;|&emsp;&emsp;|—— roadInfo.py           - presupposed information<br>
 |&emsp;&emsp;|&emsp;&emsp;|—— carflow.py            - generate flow randomly <br>
 |&emsp;&emsp;|&emsp;&emsp;|—— get_flow.py           - get flow from dataset<br>
-|&emsp;&emsp;|&emsp;&emsp;|—— car_behavior.py       - car module
+|&emsp;&emsp;|&emsp;&emsp;|—— car_behavior.py       - car module<br>
 |&emsp;&emsp;|&emsp;&emsp;|—— SRP.py                - subjective risk perception<br>
 |&emsp;&emsp;|&emsp;&emsp;|—— dubins.py             - dubins curves<br>
 |&emsp;&emsp;|&emsp;&emsp;|—— pkl_period_x          - record data of simulation (x=1,2,3)<br>
