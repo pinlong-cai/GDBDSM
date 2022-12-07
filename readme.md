@@ -1,10 +1,12 @@
-# General Driving Behavior Model based on the Desired Safety Margin for Vehicle Flow Simulation (ITSC 2022)
+# Brief introduction
+
+Codes for the paper with the title of "General Driving Behavior Model based on the Desired Safety Margin for Vehicle Flow Simulation" (ITSC 2022).
 
 This paper establishes a general driving behavior model that is applied in car-following, lane-changing and merging scenarios.
 
 Referring to the NGSIM dataset, this paper realizes the similar-to-real vehicle flow simulation by the self-developed simulation platform based on PyGame. 
 
-#  Simulation video
+# Simulation video
 
 ![https://www.bilibili.com/video/BV1Am4y1d7WT/](https://www.bilibili.com/video/BV1Am4y1d7WT/)
 
