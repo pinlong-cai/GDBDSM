@@ -50,7 +50,7 @@ GDBDSM-main/
 # Citation
 
 If you use the codes, please consider citing the following publication:
-
+```
 @inproceedings{cai2022general,
   title={General Driving Behavior Model based on the Desired Safety Margin for Vehicle Flow Simulation},
   author={Cai, Pinlong and Zhang, Junjie and Zhao, Xuan and Li, Yikang},
@@ -59,7 +59,7 @@ If you use the codes, please consider citing the following publication:
   year={2022},
   organization={IEEE}
 }
-
+```
 # Acknowledgement
 
 The data from Next Generation SIMulation (NGSIM) program is used for this study.
