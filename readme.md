@@ -8,7 +8,7 @@ Referring to the NGSIM dataset, this paper realizes the similar-to-real vehicle 
 
 # Simulation video
 
-![https://www.bilibili.com/video/BV1Am4y1d7WT/](https://www.bilibili.com/video/BV1Am4y1d7WT/)
+[https://www.bilibili.com/video/BV1Am4y1d7WT/](https://www.bilibili.com/video/BV1Am4y1d7WT/)
 
 
 # Installation Requirements
