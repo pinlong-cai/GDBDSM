@@ -21,7 +21,7 @@ pygame 2.1.2 (SDL 2.0.16, Python 3.9.12)
 ```
 GDBDSM-main/
 |—— model
-|   |—— GDM                       - General Driving Behavior Model
+|   |—— GDM                       - general Driving Behavior Model
 |   |   |—— simulation.py         - main program
 |   |   |—— roadInfo.py           - presupposed information
 |   |   |—— carflow.py            - generate flow randomly 
