@@ -12,7 +12,7 @@ Referring to the NGSIM dataset, this paper realizes the similar-to-real vehicle 
 ![image](https://user-images.githubusercontent.com/24663258/206148572-9e3c760e-1b28-4a40-b7e2-e6c493996514.png)
 
 
-# Installation Requirements
+# Installation requirements
 
 pygame 2.1.2 (SDL 2.0.16, Python 3.9.12)
 
