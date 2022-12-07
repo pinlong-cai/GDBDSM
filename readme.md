@@ -20,27 +20,27 @@ pygame 2.1.2 (SDL 2.0.16, Python 3.9.12)
 # Tree view of code
 GDBDSM-main/<br>
 |—— model<br>
-|&emsp;&emsp;&emsp;&emsp;|—— GDM                       - General Driving Behavior Model<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— simulation.py         - main program<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— roadInfo.py           - presupposed information<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— carflow.py            - generate flow randomly <br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— get_flow.py           - get flow from dataset<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— car_behavior.py       - car module
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— SRP.py                - subjective risk perception<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— dubins.py             - dubins curves<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— pkl_period_x          - record data of simulation (x=1,2,3)<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— visual.py             - replay the simulation from recording data<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— velocity_sum          - record veloctiy of simulation<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— exam_for_mfd.py       - simulations under different demands<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— result                - result of exam_for_mfd.py <br>
-|&emsp;&emsp;&emsp;&emsp;|—— IDM+MOBIL                 - baseline model<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— IDM_MOBIL.py          - main program<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— roadInfo.py           - presupposed information<br>
-|&emsp;&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;&emsp;|—— velocity_sum          - record veloctiy of simulation<br>
+|&emsp;&emsp;|—— GDM                       - General Driving Behavior Model<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— simulation.py         - main program<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— roadInfo.py           - presupposed information<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— carflow.py            - generate flow randomly <br>
+|&emsp;&emsp;|&emsp;&emsp;|—— get_flow.py           - get flow from dataset<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— car_behavior.py       - car module
+|&emsp;&emsp;|&emsp;&emsp;|—— SRP.py                - subjective risk perception<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— dubins.py             - dubins curves<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— pkl_period_x          - record data of simulation (x=1,2,3)<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— visual.py             - replay the simulation from recording data<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— velocity_sum          - record veloctiy of simulation<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— exam_for_mfd.py       - simulations under different demands<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— result                - result of exam_for_mfd.py <br>
+|&emsp;&emsp;|—— IDM+MOBIL                 - baseline model<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— IDM_MOBIL.py          - main program<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— roadInfo.py           - presupposed information<br>
+|&emsp;&emsp;|&emsp;&emsp;|—— velocity_sum          - record veloctiy of simulation<br>
 |—— I80_data_process              - initial states of vehicles in dataset (lane id, time, speed)<br>
-|&emsp;&emsp;&emsp;&emsp; |—— init_vehicle_1.csv        - period 1<br>
-|&emsp;&emsp;&emsp;&emsp;|—— init_vehicle_2.csv        - period 2<br>
-|&emsp;&emsp;&emsp;&emsp;|—— init_vehicle_3.csv        - period 3<br>
+|&emsp;&emsp;|—— init_vehicle_1.csv        - period 1<br>
+|&emsp;&emsp;|—— init_vehicle_2.csv        - period 2<br>
+|&emsp;&emsp;|—— init_vehicle_3.csv        - period 3<br>
 |—— analyze                       - plot figures in our paper<br>
 |—— readme.md
 
