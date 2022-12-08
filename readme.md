@@ -66,5 +66,5 @@ The data from Next Generation SIMulation (NGSIM) program is used for this study.
 
 # Contact
 
-If you require any further information, please feel free to contact me by E-mail (caipinlong@pjlab.org.cn). 
+If you require any further information, please feel free to contact me by e-mail (caipinlong@pjlab.org.cn). 
 
